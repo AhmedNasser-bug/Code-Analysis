@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\Study\Programming\Projects\Code Analytic\CPP_Code_Analysis\Setup.h(120,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Study\Programming\Projects\Code Analytic\CPP_Code_Analysis\main.cpp(40,18): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+      D:\Study\Programming\Projects\Code Analytic\CPP_Code_Analysis\main.cpp(40,18):
+      the template instantiation context (the oldest one first) is
+          D:\Study\Programming\Projects\Code Analytic\CPP_Code_Analysis\main.cpp(123,32):
+          see reference to function template instantiation 'AlgorithmAnalysis analyze_algorithm<int(__cdecl *)(int)>(Func,double,double,int)' being compiled
+          with
+          [
+              Func=int (__cdecl *)(int)
+          ]
+  
+D:\Study\Programming\Projects\Code Analytic\CPP_Code_Analysis\main.cpp(77,19): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  Code_Analysis.vcxproj -> D:\Study\Programming\Projects\Code Analytic\CPP_Code_Analysis\x64\Debug\Code_Analysis.exe
